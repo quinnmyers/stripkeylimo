@@ -1,0 +1,58 @@
+.cards
+  display: flex
+  justify-content: space-between
+  height: 500px
+  width: 100%
+  margin-bottom: 60px
+  .card
+    display: flex
+    flex-direction: column
+    justify-content: space-between
+    width: 30%
+    background: rgba(0,0,0,0.65)
+    border: 2px solid white
+    border-radius: 5px
+    &__title
+      color: $green
+      text-transform: uppercase
+      text-align: center
+      margin-top: 10px
+      font-size: 28px
+      letter-spacing: 1px
+    .card__info
+      display: flex
+      flex-direction: column
+    &__1__image,
+    &__2__image,
+    &__3__image,
+      align-self: center
+      width: 85%
+      height: 200px
+      background:
+        size: cover
+        repeat: no-repeat
+        position: center
+    &__1__image
+      background:
+        image: url('../images/card-1-background.jpg')
+    &__2__image
+      background:
+        image: url('../images/card-2-background.jpg')
+    &__3__image
+      background:
+        image: url('../images/card-3-background.jpg')
+    .card__description
+      margin-top: 20px
+      align-self: center
+      width: 85%
+      color: white
+      font-size: 18px
+      line-height: 22px
+  .card__button
+    color: $green
+    align-self: center
+    margin-bottom: 20px
+    p
+      font-size: 18px
+      font-weight: 700
+      text-transform: uppercase

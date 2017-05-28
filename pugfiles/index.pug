@@ -1,0 +1,55 @@
+doctype html
+html
+
+  head
+    include head.pug
+    
+  body 
+    .backgroundSlideshow
+      .backgroundSlideshow__wrap.owl-carousel.owl-theme
+        .backgroundSlideshow__item(style="background-image:url('assets/images/background-eiffel.jpg')")
+        .backgroundSlideshow__item(style="background-image:url('assets/images/background-edc.jpg')")
+          
+    include header.pug
+    .content
+      .jumbotron.owl-carousel.owl-theme
+        .jumbotron__item 
+          .jumbotron__wrap
+            h2.jumbotron__item__title The Premiere Limo Service in Las Vegas
+            .jumbotron__item__copy Experience Las Vegas the right way. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis quis risus at euismod. Etiam tellus libero, volutpat eu risus vel, aliquam pharetra leo. Nam tincidunt ultrices justo, nec pharetra lorem vestibulum non. 
+            .jumbotron__item__button Make A Reservation
+        .jumbotron__item 
+          .jumbotron__wrap
+            h2.jumbotron__item__title The WORST Limo Service in Las Vegas
+            .jumbotron__item__copy Experience Las Vegas the right way. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis quis risus at euismod. Etiam tellus libero, volutpat eu risus vel, aliquam pharetra leo. Nam tincidunt ultrices justo, nec pharetra lorem vestibulum non. 
+            .jumbotron__item__button Make A Reservation
+      
+      .cards
+        .card
+          h3.card__title Party It Up
+          .card__info
+            .card__1__image
+            .card__description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+          .card__button
+            p See Our Services
+        .card
+          h3.card__title Our Fleet
+          .card__info
+            .card__2__image
+            .card__description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+          .card__button
+            p See Our Fleet
+        .card
+          h3.card__title Contact
+          .card__info
+            .card__3__image
+            .card__description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+          .card__button
+            p Contact Us
+            
+    
+    include footer
+  script(src='assets/js/app-min.js')
+
+
+  

@@ -1,0 +1,45 @@
+.header
+  background: rgba(0,0,0,0.65)
+  padding-top: 25px
+  &__top
+    display: block
+    flex-direction: row
+    height: 250px
+    margin-bottom: 10px
+    //background: pink
+    &__logo
+      float: right
+      align-self: center
+      height: 250px
+      width: calc(100% / 3)
+      background:
+        image: url('../images/logo.png')
+        image: url('../images/logo.svg')
+        color: transparent
+        repeat: no-repeat
+        position: center center
+        size: auto 85%
+    &__phone
+      float: right
+      //background: blue
+      height: 250px
+      width: calc(100% / 3)
+  &__bot
+    height: 50px
+    //background: lightskyblue
+  &__nav
+    //background: yellow
+    display: flex
+    justify-content: space-between
+    list-style: none
+    @include tablet
+      justify-content: space-around
+    li
+      display: inline-block
+      height: 50px
+      line-height: 50px
+      a
+        text-transform: uppercase
+        font-weight: 700
+        font-size: 18px
+        color: white

@@ -1,0 +1,7 @@
+/**
+ * Plugin for linking multiple owl instances
+ * @version 1.0.0
+ * @author David Deutsch
+ * @license The MIT License (MIT)
+ */
+!function($,t,e,o){var i=function(t){this._core=t,this._handlers={"dragged.owl.carousel changed.owl.carousel":$.proxy(function(t){t.namespace&&this._core.settings.linked&&this.update(t)},this),"linked.to.owl.carousel":$.proxy(function(t,e,o,i,n){t.namespace&&this._core.settings.linked&&this.toSlide(e,o,n)},this)},this._core.$element.on(this._handlers),this._core.options=$.extend({},i.Defaults,this._core.options)};i.Defaults={linked:!1},i.prototype.update=function(t){this.toSlide(t.relatedTarget.relative(t.item.index))},i.prototype.toSlide=function(t,e,o){var i=this._core.$element.attr("id"),n=this._core.settings.linked.split(",");void 0===o&&(o=!0),t=t||0,o?$.each(n,function(e,o){$(o).trigger("linked.to.owl.carousel",[t,300,!0,!1])}):(this._core.$element.trigger("to.owl.carousel",[t,300,!0]),this._core.settings.current&&this._core._plugins.current.switchTo(t))},i.prototype.destroy=function(){var t,e;for(t in this._handlers)this.$element.off(t,this._handlers[t]);for(e in Object.getOwnPropertyNames(this))"function"!=typeof this[e]&&(this[e]=null)},$.fn.owlCarousel.Constructor.Plugins.linked=i}(window.Zepto||window.jQuery,window,document);
