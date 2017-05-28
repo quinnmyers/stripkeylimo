@@ -1,5 +1,6 @@
 $phone-max-width: 480px;
 $tablet-width: 768px;
+$smaller-desktop: 1150px;
 $desktop-width: 1280px;
 @mixin ultra {
     @media (min-width: #{$desktop-width} + 1) {
@@ -9,6 +10,12 @@ $desktop-width: 1280px;
 
 @mixin desktop {
     @media (max-width: #{$desktop-width}) {
+        @content;
+    }
+}
+
+@mixin smaller-desktop {
+    @media (max-width: #{$smaller-desktop}) {
         @content;
     }
 }

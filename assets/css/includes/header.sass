@@ -18,12 +18,45 @@
         color: transparent
         repeat: no-repeat
         position: center center
-        size: auto 85%
+        size: 85% auto
+      @include tablet
+        width: 100%
+        float: none
+        height: 200px
+        margin-top: -30px
+        background:
+          size: auto 85%
+      @include phone
+        margin-top: 0px
     &__phone
       float: right
       //background: blue
       height: 250px
       width: calc(100% / 3)
+      @include tablet
+        width: 100%
+        float: none
+        height: auto
+        @include phone
+          text-align: center
+      .phone__heading
+        color: white
+        font-size: 20px
+        font-weight: bold
+        letter-spacing: 1px
+        text-transform: uppercase
+        text-align: right
+        @include phone
+          text-align: center
+      .phone__number
+        color: $green
+        font-size: 30px
+        font-weight: bold
+        letter-spacing: 1px
+        line-height: 20px
+        text-align: right
+        @include phone
+          text-align: center
   &__bot
     height: 50px
     //background: lightskyblue
@@ -43,3 +76,8 @@
         font-weight: 700
         font-size: 18px
         color: white
+        &:hover,
+        &:active
+          color: $green
+        @include phone
+          font-size: 14px

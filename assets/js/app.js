@@ -15,7 +15,8 @@ jQuery(function (){
       autoplay: true,
       nav:false,
       items: 1,
-      linked: ".jumbotron"
+      linked: ".jumbotron",
+      dots: false
   })
 
 
