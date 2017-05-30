@@ -36,7 +36,7 @@
 	"\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 1,
+		"oA": 2,
 		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.js",
 		"oF": 0,
 		"sC": 0,
@@ -3647,14 +3647,8 @@
 			},
 		{
 			"followForSyntaxChecking": 0,
-			"linkedFileAbbreviatedPath": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.js",
-			"position": 3,
-			"type": 0
-			},
-		{
-			"followForSyntaxChecking": 0,
 			"linkedFileAbbreviatedPath": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.js",
-			"position": 4,
+			"position": 3,
 			"type": 0
 			}
 		]
