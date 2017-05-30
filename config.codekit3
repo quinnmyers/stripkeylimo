@@ -9,6 +9,202 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/assets\/css\/bower\/fancybox-3.0\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/.gitignore",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/docs\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/docs\/index.html",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/gulpfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/gulpfile.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/css\/core.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/css\/core.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/css\/fullscreen.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/css\/fullscreen.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/css\/slideshow.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/css\/slideshow.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/css\/thumbs.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/css\/thumbs.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/core.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/core.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/fullscreen.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/fullscreen.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/guestures.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/guestures.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/hash.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/hash.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/media.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/media.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/slideshow.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/slideshow.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/fancybox-3.0\/src\/js\/thumbs.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/fancybox-3.0\/src\/js\/thumbs.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
 	"\/assets\/css\/bower\/jquery\/.bower.json": {
 		"ft": 524288,
 		"oA": 2,
@@ -1064,6 +1260,308 @@
 		"mi": 1,
 		"oA": 2,
 		"oAP": "\/assets\/css\/bower\/jquery\/src\/wrap.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/.editorconfig": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/.editorconfig",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/.gitignore",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/.jscsrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/.jscsrc",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/.jshintrc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/.jshintrc",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/bower.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/bower.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/CONTRIBUTING.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/CONTRIBUTING.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/DEPLOY.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/DEPLOY.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/css\/lightbox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/css\/lightbox.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/css\/lightbox.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/css\/lightbox.min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/images\/close.png": {
+		"ft": 32768,
+		"iS": 280,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/images\/close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 8476,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/images\/next.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 1360,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox-plus-jquery.min.map",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.min.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.min.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.min.map",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/examples\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/examples\/index.html",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/Gruntfile.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/Gruntfile.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/LICENSE",
+		"oF": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/package.json": {
+		"ft": 524288,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/package.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/README.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/ROADMAP.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/ROADMAP.md",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/src\/css\/lightbox.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/src\/css\/lightbox.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/src\/images\/close.png": {
+		"ft": 32768,
+		"iS": 280,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/src\/images\/close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/src\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 8476,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/src\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/src\/images\/next.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/src\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/src\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 1360,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/src\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/css\/bower\/lightbox2-master\/src\/js\/lightbox.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/css\/bower\/lightbox2-master\/src\/js\/lightbox.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -2736,6 +3234,19 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/css\/includes\/our-fleet.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/includes\/our-fleet.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/css\/index.css": {
 		"aP": 1,
 		"bl": 0,
@@ -2903,6 +3414,45 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/assets\/images\/close.png": {
+		"ft": 32768,
+		"iS": 280,
+		"oA": 0,
+		"oAP": "\/assets\/images\/close.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/ford_1.jpg": {
+		"ft": 16384,
+		"iS": 50904,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ford_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/ford_2.jpeg": {
+		"ft": 16384,
+		"iS": 8512,
+		"oA": 0,
+		"oAP": "\/assets\/images\/ford_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/loading.gif": {
+		"ft": 4194304,
+		"iS": 8476,
+		"oA": 0,
+		"oAP": "\/assets\/images\/loading.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/images\/logo.png": {
 		"ft": 32768,
 		"iS": 62945,
@@ -2923,6 +3473,58 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/assets\/images\/mercedes_1.jpg": {
+		"ft": 16384,
+		"iS": 60259,
+		"oA": 0,
+		"oAP": "\/assets\/images\/mercedes_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/mercedes_2.jpg": {
+		"ft": 16384,
+		"iS": 333033,
+		"oA": 0,
+		"oAP": "\/assets\/images\/mercedes_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/mercedes_3.jpg": {
+		"ft": 16384,
+		"iS": 168440,
+		"oA": 0,
+		"oAP": "\/assets\/images\/mercedes_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/images\/next.png": {
+		"ft": 32768,
+		"iS": 1350,
+		"oA": 0,
+		"oAP": "\/assets\/images\/next.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/images\/prev.png": {
+		"ft": 32768,
+		"iS": 1360,
+		"oA": 0,
+		"oAP": "\/assets\/images\/prev.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/assets\/js\/app-min.js": {
 		"ft": 64,
@@ -2974,6 +3576,12 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
+	"\/out-fleet.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/out-fleet.html",
+		"oF": 0
+		},
 	"\/pugfiles\/footer.pug": {
 		"cOD": 1,
 		"ft": 512,
@@ -3005,6 +3613,14 @@
 		"oAP": "\/index.html",
 		"oF": 2,
 		"oS": 0
+		},
+	"\/pugfiles\/out-fleet.pug": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/out-fleet.html",
+		"oF": 2,
+		"oS": 0
 		}
 	},
 "hooks": [
@@ -3027,6 +3643,18 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/js\/owl.linked.js",
 			"position": 2,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/assets\/css\/bower\/fancybox-3.0\/dist\/jquery.fancybox.js",
+			"position": 3,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 0,
+			"linkedFileAbbreviatedPath": "\/assets\/css\/bower\/lightbox2-master\/dist\/js\/lightbox.js",
+			"position": 4,
 			"type": 0
 			}
 		]

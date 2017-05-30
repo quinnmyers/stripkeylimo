@@ -1,0 +1,36 @@
+doctype html
+html
+
+  head
+  include head.pug
+    
+  body 
+    include header.pug
+    .content 
+      .fleet
+        .fleet__container
+          .fleet__container__item
+            .fleet__container__item__photo
+              a(href='assets/images/ford_1.jpg' data-lightbox='ford_450')
+                .vehicle__1__photo
+            .fleet__container__item__copy
+              h3.vehicle__name Ford E-450 Party Bus
+              .vehicle__description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        .fleet__container
+          .fleet__container__item
+            .fleet__container__item__photo
+              a(href='assets/images/mercedes_1.jpg' data-lightbox='mercedes')
+                .vehicle__2__photo
+            .fleet__container__item__copy
+              h3.vehicle__name Mercedes Sprinter
+              .vehicle__description Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+              
+              
+    include footer.pug
+  script(src='assets/js/app-min.js')
+
+
+a(href='assets/images/ford_2.jpeg' data-lightbox='ford_450')
+  
+a(href='assets/images/mercedes_2.jpg' data-lightbox='mercedes')
+a(href='assets/images/mercedes_3.jpg' data-lightbox='mercedes')
