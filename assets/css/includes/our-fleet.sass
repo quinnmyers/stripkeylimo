@@ -10,12 +10,21 @@
       border-radius: 5px
       border: 1px solid white
       margin-top: 25px
+      @include tablet
+        height: auto
+      @include phone
+        flex-direction: column
       &__photo
         height: 230px
         width: 230px
         border-radius: 5px
         margin-left: 10px
         flex-shrink: 0
+        @include phone
+          margin-top: 10px
+          width: 100%
+          padding: 0px 10px
+          margin-left: 0px
         .vehicle__1__photo,
         .vehicle__2__photo
           height: 100%
